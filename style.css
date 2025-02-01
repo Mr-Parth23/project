@@ -13,14 +13,14 @@ body {
 
   background-size: 1510px;
 
-  background-image: url(bg.webp);
+  background-image: url("https://i.pinimg.com/236x/44/04/bc/4404bccbd60b5407619f372599c8a4db.jpg");
   background-position: center center;
 }
 
 .paper {
     position: absolute;
   transition: transform 0.1s ease; /* Smooth transform transitions */
-  background-image: url('paper.webp');
+  background-image: url('https://wallpapers.com/images/hd/cute-heart-background-pz2fbph5oa9rjyfx.jpg');
   background-size: 500px;
   background-position: center center;
   padding: 20px 100px;
